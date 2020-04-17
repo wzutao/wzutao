@@ -9,6 +9,7 @@ body.loading:before {display:block;}
   50% {-webkit-transform:scale(1.0);}
   100% {-webkit-transform:scale(0.3);}
 }
+
 @-moz-keyframes loading {
   0% {-moz-transform:scale(0.3);}
   50% {-moz-transform:scale(1.0);}
